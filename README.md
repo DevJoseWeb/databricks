@@ -4,6 +4,8 @@ Azure Databricks Demos
 # Treinamento
 ## Data Science no Azure Databricks
 
+![](kafka.png)
+
 ### Overview
 
 - 15hs não são o suficiente para mostrar tudo de ML
