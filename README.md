@@ -43,7 +43,7 @@ Azure Databricks Demos
  ![](img/Screenshot from 2020-01-25 18-42-26.png)	 
  ![](img/Screenshot from 2020-01-25 19-05-26.png)	 
  ![](img/Screenshot from 2020-01-25 19-09-41.png)	 
- ![](img/Screenshot from 2020-01-25 19-15-36.png)	 
+ ![](img/Screenshotfrom2020-01-25 19-15-36.png)	 
  ![](img/Screenshot from 2020-01-25 19-41-05.png)	 
  ![](img/Screenshot from 2020-01-25 20-05-34.png)	 
  ![](img/Screenshot from 2020-01-25 20-06-34.png)	 
