@@ -4,7 +4,7 @@ Azure Databricks Demos
 # Treinamento
 ## Data Science no Azure Databricks
 
- ![](img/Screenshot from 2020-01-22 23-56-36.png)
+ ![](img/Screenshot%20from%202020-01-22%2023-56-36.png)
  
  ![](img/Screenshot from 2020-01-23 00-02-24.png)	 
  ![](img/Screenshot from 2020-01-23 00-18-49.png)	 
